@@ -1,0 +1,17 @@
+{
+    "solanamainnet": {
+      "type": "collateral",
+      "decimals": 6,
+      "token": "5qpQm1W8g7S5oQGpYfbY3QRcFDyy1P9WLrMtAc1apump",
+      "interchainGasPaymaster": "AkeHBbE5JkwVppujCQQ6WuxsVsJtruBAjUo6fDCFp6fF",
+      "remoteDecimals": 18,
+      "owner": "GAG92a8b27Zi7KE9j3aMnUbKYarBsqp1u394anFW17Ri"
+    },
+    "ethereum": {
+      "type": "synthetic",
+      "decimals": 18,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "foreignDeployment": "0xbB2B1E88B93Fdd1C7431FdeE56F6b1881183d11F"
+    }
+  }

@@ -1,0 +1,10 @@
+{
+  "ethereum": {
+    "hex": "0x000000000000000000000000bb2b1e88b93fdd1c7431fdee56f6b1881183d11f",
+    "base58": "1111111111113cEsNUKh9t88hUM1CopKjdu1Vh3k"
+  },
+  "solanamainnet": {
+    "hex": "0x7d5b76ca2e3c63c9aeb16b57d0768a984c427f6161cc2ab5fde2bee28bb67eab",
+    "base58": "9SLrW4LCn6o2rk58YyKBhMWBiTa65eGouAK1r7xaaJta"
+  }
+}

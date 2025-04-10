@@ -1,0 +1,18 @@
+ethereum:
+  interchainSecurityModule: "0x0000000000000000000000000000000000000000"
+  isNft: false
+  name: "Ethereum"
+  symbol: "ETH"
+  uri: "https://gist.githubusercontent.com/ethexodussol/c8be20d3ccac7ae376c76bc20ea62849/raw/d196cae273023490235897d483cc3621ae52c6bd/eth-metadata.json"
+  decimals: 18
+  owner: "0xb492D931374594adbDc09BAEac632cF8FB06385a"
+  type: synthetic
+  gas: 300000
+solanamainnet:
+  interchainSecurityModule: "0x0000000000000000000000000000000000000000"
+  owner: "GAG92a8b27Zi7KE9j3aMnUbKYarBsqp1u394anFW17Ri"
+  foreignDeployment: "9SLrW4LCn6o2rk58YyKBhMWBiTa65eGouAK1r7xaaJta"
+  token: "5qpQm1W8g7S5oQGpYfbY3QRcFDyy1P9WLrMtAc1apump"
+  type: collateral
+  gas: 300000
+
